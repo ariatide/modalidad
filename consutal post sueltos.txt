@@ -1,0 +1,11 @@
+select * from `postulante`
+where `postulante`.`id_pos` not in(
+SELECT `postulante`.`id_pos` FROM `POSTULANTE`,`proyecto`
+where `postulante`.`id_pos`=`proyecto`.`id_pos`)
+
+
+
+select * from `proyecto`
+where `proyecto`.`id_pos` not in(
+SELECT `postulante`.`id_pos` FROM `POSTULANTE`,`proyecto`
+where `postulante`.`id_pos`=`proyecto`.`id_pos`)

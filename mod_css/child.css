@@ -1,0 +1,34 @@
+
+body .slug-pattern {background-color:#ab5637;}
+a.button.color span {background-color:transparent;}
+a.button.color {background-color:transparent;}
+ul.pricing li.price span {color:#ab5637;}
+.body .pagination ul.pages li.active a:hover {color:#ab5637;}
+.body .blog blockquote, blockquote.full {border-left:2px solid #ab5637;}
+.testimonials.style-2 .source img {border-color:#ab5637;}
+.body .blog.style-4 .border .meta p {background:#ab5637;}
+.footer .foot-nav {background-color:#ab5637;}
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span {color:#ab5637;}
+h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong {color:#ab5637;}
+a, a:visited { color: #ab5637; }
+.block-icons .icon:hover .symbol { background-color: #ab5637; }
+.tabbed-area ul.tabs li a.active {color:#ab5637;border-top:1px solid #ab5637;}
+.header .nav .standard ul.tabs li a.active,.onebyone h1 strong,.header .nav .standard ul.tabs li a:hover {color:#ab5637 !important;}
+.header .logo {background-color:#ab5637;}
+.footer .logo-caption, .footer .logo-caption-overlay {background-color:#ab5637;}
+h1, h2, h3, h4, h5, h6 {font-family: \"Open Sans\";}
+body {background:url(../mod_images/patterns/circles.png) top left repeat #e1e1e1;}
+body .page-wrapper {background:url(../mod_images/patterns/noise-medium.png) top left repeat;}
+body .overlay {background:url(../mod_images/patterns/noise-medium.png) top left repeat transparent;}
+a.button.color { background: transparent url(../mod_images/design/buttons/cbutton-teal-cut.png) no-repeat scroll top right;}
+a.button.color span { background: transparent url(../mod_images/design/buttons/cbutton-teal.png) no-repeat;}
+ul.slidecontrols li a.next:hover {background-color:#ab5637;}
+ul.slidecontrols li a.prev:hover {background-color:#ab5637;}
+.header .nav {background-color:#ab5637;}
+.header .submenu ul.deep-child .tr,.header .menu li.submenu ul.child  {border-color:#ab5637;}
+.footer.style-2 .foot-nav-bg,.header .nav a.active span.indicator {background-color:#ab5637;}
+a.big-button:active,a.big-button:active span,a.big-button:hover,a.big-button:hover span,a.medium-button:active,a.medium-button:active span,a.medium-button:hover,a.medium-button:hover span {background-color:#ab5637;}
+.footer.style-2 .logo-caption, .footer.style-2 .logo-caption-overlay {background-color:#ab5637;}
+.body .portfolio.standard .item:hover,.onebyone h1 strong {border-color:#ab5637 !important;}
+.circles .columns .icon:hover, .circles .columns:hover,.circles .columns:hover .icon { border-color:#ab5637;}
+body .slug-pattern .slug-cut {background:none;}
